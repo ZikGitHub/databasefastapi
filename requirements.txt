@@ -2,3 +2,6 @@ fastapi
 uvicorn
 pydantic
 random2
+psycopg2
+psycopg2-binary
+sqlalchemy
